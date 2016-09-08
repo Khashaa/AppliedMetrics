@@ -1,6 +1,8 @@
-# Хэрэглээний Эк онометрикс
+# Хэрэглээний Эконометрикс
 
-[Лекц 1: Хугацаан цувааны анализ](http://rpubs.com/Hasha/ts-applications)
+## Лекц 1
+
+[Хугацаан цувааны анализ](http://rpubs.com/Hasha/ts-applications)
 
 [Monte-Carlo Analysis](http://rpubs.com/Hasha/MonteCarlo)
 
