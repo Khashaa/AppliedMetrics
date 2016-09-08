@@ -22,3 +22,11 @@
 
 ##Лекц 7: Difference-in-Difference (DID)
 
+Textbook:
+
+Stock and Watson "Introductory Econometrics"
+
+Angrist and Pischke "Mostly Harmless Econometrics"
+
+Angrist "Mastering Metrics"
+
