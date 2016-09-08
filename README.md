@@ -2,7 +2,13 @@
 
 [Лекц 1: Хугацаан цувааны анализ](http://rpubs.com/Hasha/ts-applications)
 
-Monte-Carlo Analysis
+(Monte-Carlo Analysis)[http://rpubs.com/Hasha/MonteCarlo]
+
+[Unit root tests in R](http://rpubs.com/Hasha/UR)
+
+[VAR](http://rpubs.com/Hasha/VAR) 
+
+
 
 Лекц 2: Дискрет сонголтын загвар
 
