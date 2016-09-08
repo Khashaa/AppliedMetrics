@@ -2,7 +2,7 @@
 
 [Лекц 1: Хугацаан цувааны анализ](http://rpubs.com/Hasha/ts-applications)
 
-(Monte-Carlo Analysis)[http://rpubs.com/Hasha/MonteCarlo]
+[Monte-Carlo Analysis](http://rpubs.com/Hasha/MonteCarlo)
 
 [Unit root tests in R](http://rpubs.com/Hasha/UR)
 
