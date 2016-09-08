@@ -12,13 +12,13 @@
 
 
 
-Лекц 2: Дискрет сонголтын загвар
+##Лекц 2: Дискрет сонголтын загвар
 
-Лекц 4: Тритмент Эффект, Рандом туршилт (Treatment effect, ATE, Randomized experiment)
+##Лекц 4: Тритмент Эффект, Рандом туршилт (Treatment effect, ATE, Randomized experiment)
 
-Лекц 5: Инструмент хувьсагчийн арга
+##Лекц 5: Инструмент хувьсагчийн арга
 
-Лекц 6: Regression Discontinuity Design (RDD)
+##Лекц 6: Regression Discontinuity Design (RDD)
 
-Лекц 7: Difference-in-Difference (DID)
+##Лекц 7: Difference-in-Difference (DID)
 
