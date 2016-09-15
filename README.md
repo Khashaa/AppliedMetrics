@@ -14,6 +14,11 @@
 
 ##Лекц 2: Дискрет сонголтын загвар
 
+[Дискрет сонголтын загвар](https://rpubs.com/Hasha/discretechoice) 
+
+[Boston HMDA example](https://rpubs.com/Hasha/hw1)
+
+
 ##Лекц 4: Тритмент Эффект, Рандом туршилт (Treatment effect, ATE, Randomized experiment)
 
 ##Лекц 5: Инструмент хувьсагчийн арга
