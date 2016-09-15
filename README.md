@@ -29,7 +29,7 @@
 
 Textbook:
 
-Stock and Watson "Introductory Econometrics"
+[Stock and Watson "Introductory Econometrics"](http://wps.aw.com/aw_stock_ie_3/178/45691/11696965.cw/index.html)
 
 Angrist and Pischke "Mostly Harmless Econometrics"
 
