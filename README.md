@@ -24,6 +24,7 @@ Stock and Watson Chapter 11 (Table 11.2)[https://www.dropbox.com/s/5ym65arqoagpb
  
 [Инструмент хувьсагчийн арга](https://www.dropbox.com/s/ggyznsu7moocr9i/IV.pdf?dl=0)
 
+[Introduction to R](https://www.dropbox.com/s/p2hsmumwbombtmm/Intro_to_R.html?dl=0)
 
 ##Лекц 4: Тритмент Эффект, Рандом туршилт (Treatment effect, ATE, Randomized experiment)
 
