@@ -18,7 +18,7 @@
 
 [Boston HMDA example](https://rpubs.com/Hasha/hw1)
 
-(Stock and Watson Chapter 11)[https://www.dropbox.com/s/hqmfsc182od8xd2/ch11.pdf?dl=0] (Table 11.2)[https://www.dropbox.com/s/5ym65arqoagpbzm/table11.2.pdf?dl=0], (Table 11.2.1)[https://www.dropbox.com/s/bbn5mnes5wobd6c/table11.2.1.pdf?dl=0]
+[Stock and Watson Chapter 11](https://www.dropbox.com/s/hqmfsc182od8xd2/ch11.pdf?dl=0)
 
 ##Лекц 3: IV and GMM
  
