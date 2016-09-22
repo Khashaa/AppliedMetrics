@@ -18,6 +18,12 @@
 
 [Boston HMDA example](https://rpubs.com/Hasha/hw1)
 
+Stock and Watson Chapter 11 (Table 11.2)[https://www.dropbox.com/s/5ym65arqoagpbzm/table11.2.pdf?dl=0], (Table 11.2.1)[https://www.dropbox.com/s/bbn5mnes5wobd6c/table11.2.1.pdf?dl=0]
+
+##Лекц 3: IV and GMM
+ 
+[Инструмент хувьсагчийн арга](https://www.dropbox.com/s/ggyznsu7moocr9i/IV.pdf?dl=0)
+
 
 ##Лекц 4: Тритмент Эффект, Рандом туршилт (Treatment effect, ATE, Randomized experiment)
 
