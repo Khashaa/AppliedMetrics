@@ -44,3 +44,7 @@ Textbook:
 
 [Angrist and Pischke "Mastering 'Metrics"](http://masteringmetrics.com/)
 
+
+# Бие даалт, Даалгавар
+
+[Гэрийн даалгавар 1](http://rpubs.com/khashaa/hw1)
