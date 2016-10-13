@@ -30,7 +30,9 @@
 
 [Mastering Metrics Chapter 1](http://press.princeton.edu/chapters/s10363.pdf)
 
-##Лекц 5: Инструмент хувьсагчийн арга
+[Лекц 5](https://www.dropbox.com/s/rfzqc2nrywgmh0c/Lecture5.pdf?dl=0)
+
+##: Инструмент хувьсагчийн арга
 
 ##Лекц 6: Regression Discontinuity Design (RDD)
 
