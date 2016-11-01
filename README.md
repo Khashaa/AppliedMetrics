@@ -49,4 +49,4 @@ Textbook:
 
 # Бие даалт, Даалгавар
 
-[Гэрийн даалгавар 1](http://rpubs.com/khashaa/hw1) [Хариу](http://rpubs.com/khashaa/hw1_solution)
+[Гэрийн даалгавар 1](http://rpubs.com/khashaa/hw1) ([Хариу](http://rpubs.com/khashaa/hw1_solution))
