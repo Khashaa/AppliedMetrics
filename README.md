@@ -50,3 +50,5 @@ Textbook:
 # Бие даалт, Даалгавар
 
 [Гэрийн даалгавар 1](http://rpubs.com/khashaa/hw1) ([Хариу](http://rpubs.com/khashaa/hw1_solution))
+
+[Бие Даалт 1](http://rpubs.com/khashaa/ametrics-GW1) ([Хариу])
