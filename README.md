@@ -32,11 +32,17 @@
 
 [Лекц 5](https://www.dropbox.com/s/rfzqc2nrywgmh0c/Lecture5.pdf?dl=0)
 
-##: Инструмент хувьсагчийн арга
+##Лекц 6 
 
-##Лекц 6: Regression Discontinuity Design (RDD)
+[Панел Дата](https://www.dropbox.com/s/etjrkoik9yat3br/panel.pdf?dl=0)
 
-##Лекц 7: Difference-in-Difference (DID)
+
+
+##: Инструмент хувьсагчийн арга ба Causal Эффект
+
+## Regression Discontinuity Design (RDD)
+
+##: Difference-in-Difference (DID)
 
 Textbook:
 
