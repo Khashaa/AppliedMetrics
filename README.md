@@ -36,7 +36,7 @@
 
 [Панел Дата](https://www.dropbox.com/s/etjrkoik9yat3br/panel.pdf?dl=0)
 
-[Panel Data Methods in R](https://www.dropbox.com/s/etjrkoik9yat3br/panel.pdf?dl=0)
+[Panel Data Methods in R](http://rpubs.com/khashaa/panel)
 
 
 ##: Инструмент хувьсагчийн арга ба Causal Эффект
