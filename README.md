@@ -59,3 +59,7 @@ Textbook:
 [Гэрийн даалгавар 1](http://rpubs.com/khashaa/hw1) ([Хариу](http://rpubs.com/khashaa/hw1_solution))
 
 [Бие Даалт 1](http://rpubs.com/khashaa/ametrics-GW1) ([Хариу])
+
+## Зар
+
+11-р сарын 10-ны өдөр лекц / семинар орохгүй. Тохиромжтой цагт нөхөж орох болно. 
