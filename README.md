@@ -60,6 +60,8 @@ Textbook:
 
 [Бие Даалт 1](http://rpubs.com/khashaa/ametrics-GW1) ([Хариу])
 
+[Бие Даалт 2](http://rpubs.com/khashaa/biyedaalt2) ([Хариу])
+
 ## Зар
 
 11-р сарын 10-ны өдөр лекц / семинар орохгүй. Тохиромжтой цагт нөхөж орох болно. 
